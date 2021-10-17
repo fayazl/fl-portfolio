@@ -7,6 +7,7 @@
 body {
     color:#000000;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
     background-color: black;
     background-image: url(./assets/istockphoto-944880340-170667a.jpeg);
     background-size: cover;
@@ -67,4 +68,35 @@ header nav ul li a {
     margin: 10px;
     font-weight: darker;
     font-size: 1.55vw;
+}
+
+.name {
+    position: absolute;
+    left: 35px;
+    top: 35%;
+    width: 75%;
+    text-align: left;
+    color: rgb(0, 0, 0);
+  }
+
+  .name h1 {
+    color: #fff;
+    padding: 18px;
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    display: inline;
+  }
+
+.name h2 {
+    color: #fff;
+    padding: 18px;
+    font-size: 28px;
+    display: inline;
+    font-weight: lighter;
+}
+
+.color {
+    color: red;
+    font-weight: bolder;
 }
