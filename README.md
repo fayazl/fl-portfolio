@@ -14,3 +14,7 @@ I have used the flexbox properties to attempt to create a responsive web applica
 
 Here is a sample sceenshot and links.
 
+<img src="./assets/127.0.0.1_5500_index.html.png">
+
+Links: https://fayazl.github.io/fl-portfolio/
+GitHub Repo: https://github.com/fayazl/fl-portfolio
